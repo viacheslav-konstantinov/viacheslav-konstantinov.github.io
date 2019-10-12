@@ -1,2 +1,2 @@
-# placetexperiri.github.io
-Vyacheslav Konstantinov CV
+# vkonstantinov.github.io
+Viacheslav Konstantinov CV
